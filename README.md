@@ -9,7 +9,17 @@ A proposta do projeto consiste no desenvolvimento de uma ferramenta tecnológica
 
 # Registro de Propriedade Intelectual
 
-O projeto TEA Comunicação possui registro de propriedade intelectual junto ao Instituto Nacional da Propriedade Industrial (INPI), reconhecendo a criação tecnológica desenvolvida no âmbito acadêmico.
+Processo INPI: BR512025006557-4
+
+Título: TEA Comunicação
+Titular: Instituto Federal de Educação, Ciência e Tecnologia do Pará (IFPA)
+Autores:
+- Fernando José Lima Correia
+- Eliezer Miranda Coelho
+- João Victor Costa Aquime
+- Ramily do Socorro de Sá Moraes
+- Helloisy Cristiny Oliveira Assunção
+Data de registro: 08/10/2025
 
 # Publicação Científica
 
